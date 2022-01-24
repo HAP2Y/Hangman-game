@@ -3,7 +3,7 @@
 ## How To Play The Game
 
 - Type your guessed letter using keyboard
-- Use new word to generate a random letter
+- Use new word to generate a new random letter
 
 ## Project Specifications
 
